@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = screenshots/screenshot path here/>
+  <img src = screenshot/title_image.jpg/>
 </p>
 
 ## Overview
