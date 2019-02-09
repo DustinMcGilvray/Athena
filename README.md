@@ -1,10 +1,12 @@
 <p align="center">
-  <img src = screenshots/screenshot path here/>
+  <img src = screenshots/title_screenshot.JPG/>
 </p>
 
 ## Overview
----
 Athena is a Full M.E.R.N Stack Application for Training Managment.
+
+### User Interface
+---
 
 ### Crafted With
 ---
