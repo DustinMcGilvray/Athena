@@ -5,6 +5,10 @@
 ## Overview
 Athena is a Full M.E.R.N Stack Application for Training Managment.
 
+[Try it out!](https://powerful-falls-45128.herokuapp.com/)
+
+**Currently working through a bug issue that occured after Heroku Deployment. Users can register and walkthrough the app, but will not be able to return via login.**
+
 ### User Interface
 ---
 
